@@ -104,8 +104,9 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.calculate_bmi, name='calculate_bmi'),
 ]
-
+```
 ## SERVER SIDE PROCESSING:
+
 ![alt text](<Screenshot 2025-09-27 155212.png>)
 
 ## HOMEPAGE:
